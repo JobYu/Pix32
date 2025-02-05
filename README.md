@@ -1,6 +1,8 @@
 # Pix32-pixel-font
 pix32 (三二像素体）is a pixel font (像素字体), supporting English,  Simplified Chinese.
 
+繁体中文字体正在开发中...
+
  <img src="./image/pix32-1.png?v=2024-3" width="800" />
   <br>
  <img src="./image/pix32-2.png?v=2024-3" width="800" />
@@ -18,16 +20,24 @@ pix32 (三二像素体）is a pixel font (像素字体), supporting English,  Si
 
 ## 更新记录
 
-- v1.0 完成GB2312字符
-- v1.1 补全遗漏的字符
-- v1.2 修改部分字符笔画
-- v1.3 修改部分字符笔画
-- v1.4.1 更新半角、全角空格
-- v1.4.3 修改部分字符笔画
-- v1.4.4 修改部分字符笔画
-- v1.4.5 修改部分字符笔画
+- v1.5.8 修改部分字符笔画 U+9A8A 骊
+- v1.5.7 修改部分字符笔画 U+0020 U+0067 U+006A
+- v1.5.6 谁 U+8C01 调 U+8C03 四 U+56DB 囚 U+56DA 匹 U+5339
+- v1.5.5 U+597D 好 U+7684 的 U+53E3 口 U+5F00 开 U+5bb6 家 U+56db 四 U+6700 最
+- v1.5.4 The adjustment of a single word is finished, and then the words need to be adjusted into a large block of text.
+- v1.5.3 Modify some character strokes
+- v1.5.2 Modify some character strokes
+- v1.5.1 Modify some character strokes
+- v1.5.0 Modify some character strokes
 - v1.4.6 修改部分字符笔画：U+4e54 乔，U+4e9a 亚，U+4e8f 亏，U+4EB3 毫
-- v1.5 修改部分字符笔画
+- v1.4.5 修改部分字符笔画
+- v1.4.4 修改部分字符笔画
+- v1.4.3 修改部分字符笔画
+- v1.4.1 更新半角、全角空格
+- v1.3 修改部分字符笔画
+- v1.2 修改部分字符笔画
+- v1.1 补全遗漏的字符
+- v1.0 完成GB2312字符
 
 ## Font Info
 
