@@ -2,6 +2,7 @@
 pix32 (三二像素体）is a pixel font (像素字体), supporting English,  Simplified Chinese.
 
 繁体中文字体正在开发中...
+Traditional Chinese characters are under development...
 
  <img src="./image/pix32-1.png?v=2024-3" width="800" />
   <br>
