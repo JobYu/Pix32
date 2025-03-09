@@ -21,6 +21,7 @@ Traditional Chinese characters are under development...
 
 ## 更新记录
 
+- v1.5.9 完成 Big5 Subtable BA-BF；修改GB2312部分字符笔画
 - v1.5.8 修改部分字符笔画 U+9A8A 骊
 - v1.5.7 修改部分字符笔画 U+0020 U+0067 U+006A
 - v1.5.6 谁 U+8C01 调 U+8C03 四 U+56DB 囚 U+56DA 匹 U+5339
@@ -44,7 +45,7 @@ Traditional Chinese characters are under development...
 
 - Name: Pix32 (三二像素体）
 - Size: 12px (11px + 1px padding)
-- Char Total: 6763 Chinese characters (English / Simplified Chinese )
+- Char Total: 6763 Chinese characters (English / Simplified Chinese GB2312 / Traditional Chinese big5 )
 
 # Download
 
@@ -65,7 +66,7 @@ Traditional Chinese characters are under development...
 
 - 名称：三二像素体
 - 字号：12px （11px + 1px 间距）
-- 字数：6763个汉字（英文 / 简体中文）
+- 字数：6763个汉字（英文 / 简体中文GB2312 / 繁体中文big5开发中...）
 
 # 字体下载
 
