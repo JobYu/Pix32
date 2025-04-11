@@ -20,6 +20,7 @@ Traditional Chinese characters are under development...
   <br>
 
 ## 更新记录
+- v1.7.0 完成 Big5 Subtable D0-DF；修改GB2312部分字符笔画
 - v1.6.0 完成 Big5 Subtable C0-CF；修改GB2312部分字符笔画
 - v1.5.9 完成 Big5 Subtable BA-BF；修改GB2312部分字符笔画
 - v1.5.8 修改部分字符笔画 U+9A8A 骊
