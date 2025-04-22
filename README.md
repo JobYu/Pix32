@@ -76,7 +76,7 @@ Traditional Chinese characters are under development...
 
 ## 授权与价格
 
-- 用于 多个商业产品 - **`RMB ￥199`**
+- 用于 多个商业产品（含软件、游戏嵌入） - **`RMB ￥799`**
 - 用于 教育项目 - **`免费`**
 - 用于 个人项目 - **`免费`**
 
