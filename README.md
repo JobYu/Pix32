@@ -1,6 +1,8 @@
 # Pix32-pixel-font
 pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simplified Chinese,Traditional Chinese.
 
+ISO/IEC 8859-1 characters under development⋯
+
  <img src="./image/pix32-1.png?v=2024-3" width="800" />
   <br>
    <img src="./image/TC.png" width="800" />
