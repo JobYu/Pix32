@@ -1,6 +1,8 @@
 @font-face {
   font-family: pix32ReviewLocal;
-  src: url(./32.woff2?v2024-03-04);
+  src: url(./32.woff2?v2024-03-04) format('woff2'),
+       url(./32.ttf?v2024-03-04) format('truetype');
+  font-display: swap;
 }
 
 
