@@ -1,8 +1,8 @@
 # Pix32-pixel-font
 
-pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simplified Chinese（GB2312）,Traditional Chinese（Big5）,Japanese(JIS X 0201).
+pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simplified Chinese（GB2312）,Traditional Chinese（Big5）,Japanese(EUC-JP).
 
-Japanese(JIS X 0201) characters under development⋯
+Japanese(EUC-JP) characters under development⋯
 
  <img src="./image/pix32-1.png?v=2024-3" width="800" />
   <br>
