@@ -1,8 +1,5 @@
 # Pix32-pixel-font
-pix32 (三二像素体）is a pixel font (像素字体), supporting English,  Simplified Chinese.
-
-繁体中文字体即将完成...
-Traditional Chinese font is coming soon...
+pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simplified Chinese,Traditional Chinese.
 
  <img src="./image/pix32-1.png?v=2024-3" width="800" />
   <br>
@@ -24,6 +21,7 @@ Traditional Chinese font is coming soon...
   <br>
 
 ## 更新记录
+- v1.9.0 完成 Big5 Subtable F0-F9；修改GB2312部分字符笔画
 - v1.8.0 完成 Big5 Subtable E0-EF；修改GB2312部分字符笔画
 - v1.7.0 完成 Big5 Subtable D0-DF；修改GB2312部分字符笔画
 - v1.6.0 完成 Big5 Subtable C0-CF；修改GB2312部分字符笔画
@@ -51,7 +49,7 @@ Traditional Chinese font is coming soon...
 
 - Name: Pix32 (三二像素体）
 - Size: 12px (11px + 1px padding)
-- Char Total: 6763 Chinese characters (English / Simplified Chinese GB2312 / Traditional Chinese big5 )
+- Char Total: 13060 Chinese characters (English / Simplified Chinese GB2312 / Traditional Chinese big5 )
 
 # Download
 
@@ -60,7 +58,7 @@ Traditional Chinese font is coming soon...
 
 ## License and Pricing
 
-- for Commercial/Business Product (Multiple Product)  **`USD $200`**
+- for Commercial/Business Product (Multiple Product,include Software、App、Game)  **`USD $200`**
 - for Education Product **`FREE`**
 - for Personal Product **`FREE`**
 
@@ -72,7 +70,7 @@ Traditional Chinese font is coming soon...
 
 - 名称：三二像素体
 - 字号：12px （11px + 1px 间距）
-- 字数：6763个汉字（英文 / 简体中文GB2312 / 繁体中文big5开发中...）
+- 字数：13060个汉字（英文 / 简体中文GB2312 / 繁体中文big5）
 
 # 字体下载
 
@@ -81,7 +79,7 @@ Traditional Chinese font is coming soon...
 
 ## 授权与价格
 
-- 用于 多个商业产品（含软件、游戏嵌入） - **`RMB ￥799`**
+- 用于 多个商业产品（含软件、App、游戏嵌入） - **`RMB ￥799`**
 - 用于 教育项目 - **`免费`**
 - 用于 个人项目 - **`免费`**
 
