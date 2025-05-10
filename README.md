@@ -4,19 +4,10 @@ pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simp
 
 Japanese(EUC-JP) characters under development⋯
 
- <img src="./image/pix32-1.png?v=2024-3" width="800" />
-  <br>
-   <img src="./image/TC.png" width="800" />
-    <br>
-     <img src="./image/TCSample.png" width="800" />
+
+ <img src="./image/TCSample.png" width="800" />
      <br>
  <img src="./image/pix32-2.png?v=2024-3" width="800" />
-  <br>
-  <img src="./image/pix32-3.png?v=2024-3" width="800" />
-   <br>
-   <img src="./image/pix32-4.png?v=2024-3" width="800" />
-    <br>
-    <img src="./image/pix32-5.png?v=2024-3" width="800" />
 
 
   <br>
@@ -24,6 +15,7 @@ Japanese(EUC-JP) characters under development⋯
   <br>
 
 ## 更新记录
+- Update OTF、WOOF、WOOF2 Format
 - v1.9.0 完成 Big5 Subtable F0-F9；修改GB2312部分字符笔画
 - v1.8.0 完成 Big5 Subtable E0-EF；修改GB2312部分字符笔画
 - v1.7.0 完成 Big5 Subtable D0-DF；修改GB2312部分字符笔画
@@ -56,12 +48,14 @@ Japanese(EUC-JP) characters under development⋯
 
 # Download
 
-- [Download pixel32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [Download pixel32.bdf (BDF)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [Download pix32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [Download pix32.otf (OpenType)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [Download pix32.woof (Web Open Font)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [Download pix32.woof2 (Web Open Font2)](https://github.com/JobYu/pixel32-pixel-font/releases)
 
 ## License and Pricing
 
-- for Commercial/Business Product (Multiple Product,include Software、App、Game)  **`USD $200`**
+- for Commercial/Business Product (Multiple Product,include Software、App、web app/site、Game import)  **`USD $200`**
 - for Education Product **`FREE`**
 - for Personal Product **`FREE`**
 
@@ -77,12 +71,14 @@ Japanese(EUC-JP) characters under development⋯
 
 # 字体下载
 
-- [下载 pixel32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
-- [下载 pixel32.bdf (BDF)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [下载 pix32.ttf (TrueType)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [下载 pix32.otf (OpenType)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [下载 pix32.woof (Web Open Font)](https://github.com/JobYu/pixel32-pixel-font/releases)
+- [下载 pix32.woof2 (Web Open Font2)](https://github.com/JobYu/pixel32-pixel-font/releases)
 
 ## 授权与价格
 
-- 用于 多个商业产品（含软件、App、游戏嵌入） - **`RMB ￥799`**
+- 用于 多个商业产品（含软件、App、网页、游戏嵌入） - **`RMB ￥799`**
 - 用于 教育项目 - **`免费`**
 - 用于 个人项目 - **`免费`**
 
