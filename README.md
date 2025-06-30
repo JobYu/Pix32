@@ -15,6 +15,7 @@ Japanese(EUC-JP) characters under development⋯
   <br>
 
 ## 更新记录
+- v1.9.1 Completed EUC-JP Subtable A, B; modified some Big5 character strokes
 - Update OTF、WOOF、WOOF2 Format
 - v1.9.0 完成 Big5 Subtable F0-F9；修改GB2312部分字符笔画
 - v1.8.0 完成 Big5 Subtable E0-EF；修改GB2312部分字符笔画
