@@ -15,6 +15,10 @@ Japanese(EUC-JP) characters under development⋯
   <br>
 
 ## 更新记录
+- v1.9.5 Modified the size and dimensions of both numbers and English characters.
+- v1.9.4 Add EUC-JP SubtableDA-DF;
+Modify some character strokes
+- v1.9.3 Added GB2312 font files for paid developers to use.Modify some character strokes
 - v1.9.2 Completed EUC-JP Subtable C; modified some Big5 character strokes
 - v1.9.1 Completed EUC-JP Subtable A, B; modified some Big5 character strokes
 - Update OTF、WOOF、WOOF2 Format
