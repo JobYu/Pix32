@@ -2,19 +2,15 @@
 
 pix32 (三二像素体）is a pixel font (像素字体), supporting English,Simplified Chinese（GB2312）,Traditional Chinese（Big5）,Japanese(EUC-JP).
 
-Japanese(EUC-JP) characters under development⋯
+  
 
 
- <img src="./image/TCSample.png" width="800" />
-     <br>
- <img src="./image/pix32-2.png?v=2024-3" width="800" />
+  
+📍[pixel32 Online Sample (host by vercel)](https://pix32.vercel.app/)  
 
-
-  <br>
-   📍<a href="https://pix32.vercel.app/" target="_blank">pixel32 Online Sample (host by vercel)</a>
-  <br>
 
 ## 更新记录
+- v1.9.7 Completed EUC-JP Subtable E、F;
 - v1.9.6 Completed EUC-JP Subtable D;
 - v1.9.5 Modified the size and dimensions of both numbers and English characters.
 - v1.9.4 Add EUC-JP Subtable DA-DF;
@@ -62,9 +58,9 @@ Modify some character strokes
 
 ## License and Pricing
 
-- for Commercial/Business Product (Multiple Product,include Software、App、web app/site、Game import)  **`USD $200`**
-- for Education Product **`FREE`**
-- for Personal Product **`FREE`**
+- for Commercial/Business Product (Multiple Product,include Software、App、web app/site、Game import)  `**USD $200**`
+- for Education Product `**FREE**`
+- for Personal Product `**FREE**`
 
 **My Wechat： `pixelfish`**
 
@@ -85,14 +81,13 @@ Modify some character strokes
 
 ## 授权与价格
 
-- 用于 多个商业产品（含软件、App、网页、游戏嵌入） - **`RMB ￥799`**
-- 用于 教育项目 - **`免费`**
-- 用于 个人项目 - **`免费`**
+- 用于 多个商业产品（含软件、App、网页、游戏嵌入） - `**RMB ￥799**`
+- 用于 教育项目 - `**免费**`
+- 用于 个人项目 - `**免费**`
 
 **我的微信： `pixelfish`**
 
 > BTW：字体付费后，我会给一份授权协议。如有需要，可开具发票。
-
 
 ## 版权声明
 
